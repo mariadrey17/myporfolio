@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(17, 17, 17);
+}
+
+span {
+  color: rgb(209, 52, 78);
+  font-size: 7rem;
+  text-align: center;
+}
+
+h1 {
+  color: azure;
+  font-size: 7rem;
+  text-align: center;
+}
+
+p {
+  color: azure;
+  font-size: 7rem;
+  text-align: center;
+}
+
+.about {
+  color: azure;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.titulo1 {
+  color: azure;
+  font-size: 4rem;
+  text-align: center;
+}
+
+.skills {
+  font-size: 2rem;
+}
+.intereses {
+  font-size: 2rem;
+}
